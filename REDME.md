@@ -1,0 +1,1 @@
+Esse é um projeto simples que tem como objetivo: Calcular a porcentagem do valor Digitado
